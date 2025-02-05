@@ -64,7 +64,6 @@ The report is interactive, enabling users to filter data and explore findings ac
 For questions or suggestions, please reach out to **Mimansha Kaushik**:  
 - **Email**: [kmimansha@gmail.com](mailto:kmimansha@gmail.com)  
 - **LinkedIn**: [Mimansha Kaushik](http://www.linkedin.com/in/mimansha-kaushik)  
-- **GitHub**: [kaushik051099](https://github.com/kaushik051099/projects.git)  
 
 ---
 *This project highlights an in-depth analysis of Waukegan, IL, combining crime, census, and sentiment data for actionable insights.*  
