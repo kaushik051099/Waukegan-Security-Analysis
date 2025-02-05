@@ -1,5 +1,7 @@
 # Waukegan, IL: Data Analysis on Crime Reports and Census Information
 
+https://app.powerbi.com/reportEmbed?reportId=undefined&autoAuth=true&ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7
+
 ## Introduction  
 This project provides a comprehensive data analysis of **2401 Dugdale Road, Waukegan, IL**, focusing on crime reports, census information, and resident sentiment. The goal is to assess the safety and well-being of the local area through quantitative analysis of historical trends, demographic data, and review sentiment.  
 
